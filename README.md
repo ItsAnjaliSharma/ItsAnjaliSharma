@@ -8,7 +8,7 @@ Building scalable web applications with a strong focus on performance optimizati
 Full-stack development projects involving React, Node.js, MySQL, and Next.js.
 
 🌱 Currently Learning:
-Enhancing my expertise in performance tuning for large-scale applications.
+Enhancing my expertise in performance tuning for large-scale applications and also learning Langchain.
 
 💬 Ask Me About:
 Web development, JavaScript, React, Next.js, Node.js, database structuring, and best practices for scalable software solutions.
