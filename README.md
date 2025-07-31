@@ -19,7 +19,7 @@ I love experimenting with new frameworks and finding ways to make applications m
 # 🌐 Socials:
 📫 How to reach me: 
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/ItsAnjaliSharma)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-sharma-746587259/)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anjali_anji2001/)[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100027666734646)[![Replit](https://img.shields.io/badge/Replit-%230D101E.svg?logo=Replit&logoColor=white)](https://replit.com/@anjalianji2001)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/ItsAnjaliSharma)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-sharma-746587259/)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anji.sharma.24/)[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100027666734646)[![Replit](https://img.shields.io/badge/Replit-%230D101E.svg?logo=Replit&logoColor=white)](https://replit.com/@anjalianji2001)  
 
 
 # 💻 Tech Stack:
