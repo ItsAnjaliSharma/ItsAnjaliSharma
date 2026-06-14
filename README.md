@@ -126,12 +126,11 @@ Then go to **Settings → Actions → General → Workflow permissions** and set
 
 ---
 
-## 🏆 Trophies
+## 🏅 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ItsAnjaliSharma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsAnjaliSharma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </div>
-
 ---
 
 ## 🤝 Connect
