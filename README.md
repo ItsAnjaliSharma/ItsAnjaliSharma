@@ -72,12 +72,13 @@ I enjoy experimenting with **open-source and locally running AI models**, resear
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Antigravity Code badge with a blue background, the words Antigravity Code and a stylized Visual Studio Code logo, presented as a modern developer tool badge with a professional, clean tech aesthetic](https://img.shields.io/badge/Antigravity%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](ht**Tools**
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Antigravity Code](https://img.shields.io/badge/Antigravity%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
