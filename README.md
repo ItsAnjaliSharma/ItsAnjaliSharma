@@ -54,9 +54,16 @@ I'm a Full-Stack Developer passionate about building **scalable, production-read
 
 **Currently Exploring**
 
+![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-3395FF?style=for-the-badge&logo=razorpay&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-5A67D8?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6B46C1?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge)
+
+Exploring **Generative AI, Large Language Models (LLMs), Ollama and local AI models, RAG systems, AI agents, LangChain, prompt engineering, model integration, and AI-powered applications**.
+
+I enjoy experimenting with **open-source and locally running AI models**, researching how different models work, building prototypes, and integrating AI capabilities into real-world web applications.
 
 **DevOps, Payments & Tools**
 
