@@ -82,7 +82,7 @@ I enjoy experimenting with **open-source and locally running AI models**, resear
 
 ## 🎯 Professional Focus
 
-**Full-Stack Development · Software Engineering · Web Application Development · REST API Development · Backend Development · Frontend Development · React · Next.js · Node.js · Express.js · Python · Flask · PHP · Laravel · JavaScript · MySQL · MongoDB · SQLite · Docker · Razorpay Payment Integration · API Integration · Database Design · Authentication · Performance Optimization · AI/LLM Integration · LangChain · Automation · Git · GitHub**
+**Full-Stack Development · Software Engineering · Web Application Development · REST API Development · Backend Development · Frontend Development · React · Next.js · Node.js · Express.js · Python · Flask · PHP · Laravel · JavaScript · MySQL · MongoDB · SQLite · Docker · Razorpay Payment Integration · API Integration · Database Design · Authentication · Performance Optimization · AI/LLM Integration · LangChain · Prompt Engineering · Automation · Git · GitHub**
 
 ### 🔎 What I Love Building & Researching
 
