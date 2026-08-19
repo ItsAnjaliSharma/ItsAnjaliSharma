@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Anjali%20Sharma&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20JavaScript%20%7C%20AI%20Explorer&descAlignY=62&descSize=17&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+%7C+Node.js+%7C+MySQL;Building+Scalable+Web+Applications+%F0%9F%9A%80;Exploring+LangChain+%26+LLM+Integrations+%F0%9F%A4%96;Open+to+Collaborate+%26+Build+Together+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+%7C+Node.js+%7C+Python+%7C+Flask+%7C+MySQL;Building+Scalable+Web+Applications+%F0%9F%9A%80;Exploring+LangChain+%26+LLM+Integrations+%F0%9F%A4%96;Open+to+Collaborate+%26+Build+Together+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,12 +20,14 @@
 
 ## 👩‍💻 About Me
 
-I'm a Full-Stack Developer from India passionate about building fast, scalable web applications and exploring the frontier of LLM-powered tooling.
+I'm a Full-Stack Developer passionate about building **scalable, production-ready web applications, REST APIs, and intelligent software solutions**. I enjoy turning ideas into clean, maintainable products and continuously exploring new technologies through hands-on projects and research.
 
-- 🔭 Currently working on **React & Next.js** apps with a focus on performance
-- 🌱 Learning **LangChain, Python, and LLM integrations**
-- 💬 Ask me about **JavaScript, REST APIs, or database optimization**
-- ⚡ Fun fact: I find joy in shaving milliseconds off load times
+- 🔭 Building with **React, Next.js, Node.js, PHP, Python & Flask**
+- 🌱 Exploring **AI/LLM integrations, LangChain, automation, and backend architecture**
+- 🧪 I genuinely **love researching, experimenting, reading technical documentation, and learning how things work under the hood**
+- 💡 Interested in **software engineering, system design, API development, databases, payments, and developer tools**
+- 💬 Ask me about **JavaScript, React, Next.js, Node.js, PHP, Python, REST APIs, MySQL, MongoDB, or web application development**
+- 🤝 Open to **collaboration, open-source contributions, interesting technical problems, and learning opportunities**
 
 ---
 
@@ -43,14 +45,23 @@ I'm a Full-Stack Developer from India passionate about building fast, scalable w
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Currently Exploring**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-3395FF?style=for-the-badge&logo=razorpay&logoColor=white)
+
+**DevOps, Payments & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-3395FF?style=for-the-badge&logo=razorpay&logoColor=white)
 
 **Tools**
 
@@ -58,6 +69,20 @@ I'm a Full-Stack Developer from India passionate about building fast, scalable w
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+---
+
+## 🎯 Professional Focus
+
+**Full-Stack Development · Software Engineering · Web Application Development · REST API Development · Backend Development · Frontend Development · React · Next.js · Node.js · Express.js · Python · Flask · PHP · Laravel · JavaScript · MySQL · MongoDB · SQLite · Docker · Razorpay Payment Integration · API Integration · Database Design · Authentication · Performance Optimization · AI/LLM Integration · LangChain · Automation · Git · GitHub**
+
+### 🔎 What I Love Building & Researching
+
+I enjoy **research-driven development** — exploring new frameworks, reading technical documentation, testing ideas with prototypes, comparing implementation approaches, and turning what I learn into practical software.
+
+I'm especially interested in researching and building around **AI-powered applications, LLM integrations, developer tools, scalable web architecture, APIs, payment systems, databases, automation, and modern full-stack engineering**.
+
 
 ---
 
